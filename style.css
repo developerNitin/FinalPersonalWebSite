@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+}
+
+/*************************Containers************************************/
+.top-container {
+  background-color: #27496d;
+  height: 200px;
+}
+
+.middle-container {
+  background-color: #0c7b93;
+  height: 200px;
+}
+
+.middle-container-1 {
+  position: absolute;
+}
+
+.middle-container-2 {
+  position: absolute;
+  left: 200px;
+}
+
+.bottom-container {
+  background-color: #00a8cc;
+  height: 200px;
+}
+
+/*************************Images************************************/
+
+.code1-img {
+  height: 200px;
+}
